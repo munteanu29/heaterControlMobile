@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Heater Controller</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_bluetooth">activity_bluetooth</string>
+    <string name="refresh">Refresh</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="pick_time">Pick Time</string>
+
+</resources>
